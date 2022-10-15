@@ -1,5 +1,7 @@
 # Phylogeny
- progress for phd data analysis
+## RE-EDIT A WHOLE OF THIS MESS
+
+progress for phd data analysis
 start using MrBayes in 14092020
 problem: converting fasta to nexus file
 solution: use mesquite
